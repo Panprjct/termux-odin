@@ -1,0 +1,6 @@
+# Encrypted
+# panprjct
+
+z="
+";Nz='daem';cBz='fi';YBz='m Su';rz='tall';GBz='kern';Iz=' gre';Zz='ev/n';TBz='echo';HBz='el/p';tz=' pyt';VBz='"Ker';DBz='at';WBz='nel ';wz='y cu';yz='gem ';Mz=' -c ';dz='" -e';Qz='; th';Hz='-A |';lBz='oot"';Wz='-e "';jz='upda';XBz='Belu';Sz='unam';BBz='all ';NBz='rmux';vz=' rub';Bz=' ! -';QBz='sr/b';EBz='mv .';Rz='en';Uz=' | g';PBz='es/u';oz='sume';Fz='/bin';ABz='inst';FBz='bin/';UBz=' -e ';iz='apt ';fz='" ];';gBz=' dij';Ez='stem';qz=' ins';ez='q "0';RBz='in/ ';xz='rl';Yz='> /d';nz='--as';Pz=')" ]';kz='te';sz=' tsu';Cz='z "$';eBz='ls h';hz='n';SBz='else';bBz='exit';LBz='a/co';fBz='arus';cz=' "$?';OBz='/fil';bz='2>&1';Az='if [';pz='-yes';Xz='4." ';hBz='alan';lz='apt-';MBz='m.te';aBz='t"';KBz='/dat';ZBz='ppor';Gz='/ps ';az='ull ';iBz='kan ';kBz='an r';Dz='(/sy';Oz='onsu';Vz='rep ';mz='get ';jBz='deng';gz=' the';Jz='p -v';Tz='e -r';dBz='"Too';IBz='an /';JBz='data';uz='hon3';CBz='lolc';Kz='p | ';Lz='grep';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Iz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$z$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$z$Az$cz$dz$ez$fz$gz$hz$z$iz$jz$kz$z$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$xz$z$yz$ABz$BBz$CBz$DBz$z$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$Yz$Zz$az$bz$z$SBz$z$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$z$bBz$z$cBz$z$SBz$z$TBz$UBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$z$bBz$z$cBz"
