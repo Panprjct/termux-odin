@@ -21,3 +21,4 @@ bash install.sh
 ```bash
 sudo bash odin.sh
 ```
+Sebelum Flash usahakan hp sudah terhubung ke mode download
