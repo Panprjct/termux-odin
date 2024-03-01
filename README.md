@@ -21,4 +21,4 @@ bash install.sh
 ```bash
 sudo bash odin-flash.sh
 ```
-# Sebelum Flash usahakan hp sudah terhubung ke mode download
+### Sebelum Flash usahakan hp sudah terhubung ke mode download
